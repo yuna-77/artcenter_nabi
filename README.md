@@ -13,7 +13,7 @@
 ✅ 리액트를 사용하여 지속 가능한 데이터 관리와 콘텐츠 유지 보수의 편의성을 크게 향상   
 
 
-## 개발 환경 🔧
+## 사용 기술 스택 🔧
 
 - Front-end : React, JavaScript
 - Library : SwiperJS
