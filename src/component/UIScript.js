@@ -1,11 +1,11 @@
-import { useEffect } from "react";
+import React, { useEffect } from "react";
 import { gsap } from 'gsap';
 // import { ScrollToPlugin } from 'gsap/ScrollToPlugin';
-// gsap.registerPlugin(ScrollToPlugin);
+// gsap.registerPlugin(ScrollToPlugin);;
 
 function UIScript(){
 	useEffect(() => {
-		let navList=document.querySelectorAll("nav > ul > li");
+		let navList=document.querySelectorAll("npm install gsapnav > ul > li");
 		let topBtn=document.getElementById("top");
 		let sub=document.querySelectorAll("nav .sub");
 		let aside=document.querySelector(".lnb .search");
