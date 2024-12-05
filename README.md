@@ -15,11 +15,14 @@
 
 ## 사용 기술 스택 🔧
 
-- Front-end : React, JavaScript
-- Library : SwiperJS
-- SCM : GitHub Link
-- 디자인 : Figma
-- 지원 : Web
+- **Frontend** : React, GSAP, HTML, CSS
+- **Backend** : Node.js
+- **Database** : ** MongoDB **
+- **Library** : SwiperJS
+- **SCM** : Git, GitHub
+- **Deployment** : Vercel
+- **Design** : Figma
+- **Platform**: Web
 
     
 ## 주요 기능 ⚙️
