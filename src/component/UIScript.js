@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { gsap } from 'gsap';
-import { ScrollToPlugin } from 'gsap/ScrollToPlugin';
-gsap.registerPlugin(ScrollToPlugin);
+// import { ScrollToPlugin } from 'gsap/ScrollToPlugin';
+// gsap.registerPlugin(ScrollToPlugin);
 
 function UIScript(){
 	useEffect(() => {
