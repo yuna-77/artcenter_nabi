@@ -31,7 +31,7 @@
 
 |Main Slide|
 |:---:|
-|<img src="images/Readme.image/main_slide.png" />|
+|<img src="public/images/Readme.image/main slide.png" />|
 |기본적인 swiperJS를 응용하여 메인화면을 구성해보았다.|   
 
 - 메인 페이지에 동적인 Swiper를 적용하여 보다 Interective Web을 보여주고자 했습니다.
@@ -42,7 +42,7 @@
 
 |Hover|
 |:---:|
-|<img src="images/Readme.image/tab.png" />|
+|<img src="public/images/Readme.image/tab.png" />|
 |탭 - 호버 |  
 
 - 사용자가 클릭 없이도 소개에 대한 정보를 얻을 수 있게  탭에 호버 기능을 구현 했습니다.
@@ -57,7 +57,7 @@
 
 |Board list|
 |:---:|
-|<img src="images/Readme.image/board.png" />|
+|<img src="public/images/Readme.image/board.png" />|
 |table로 게시판을 만들어 보았다. td,tr등등 기본적요소를 활용했다.|
 
 - 게시판 기능을 추가하여 사용자가 전시회 관련 정보나 의견을 자유롭게 나눌 수 있는 공간을 제공 하였습니다.
